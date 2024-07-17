@@ -94,7 +94,7 @@ fun UnitConverter(){
         label = {Text("Digite o Valor")})
         Spacer(modifier = Modifier.height(16.dp))
         Row {
-            // Here all the UI elements will be stacked next each other
+            // Here all the UI elements will be stacked next to each other
 
             // Input Box
             Box {
